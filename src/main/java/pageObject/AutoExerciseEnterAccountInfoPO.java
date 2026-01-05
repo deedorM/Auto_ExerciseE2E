@@ -1,11 +1,12 @@
-package pages;
+package pageObject;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-public class AutoExerciseEnterAccountInfoPage extends BasePage {
-    public AutoExerciseEnterAccountInfoPage(WebDriver driver) {
+public class AutoExerciseEnterAccountInfoPO extends BasePage {
+
+    public AutoExerciseEnterAccountInfoPO(WebDriver driver) {
         super(driver);
     }
 
@@ -101,9 +102,4 @@ public class AutoExerciseEnterAccountInfoPage extends BasePage {
     public void clickOnCreateAccountButton(){
         clickOnCreateLocator.click();
     }
-
-
 }
-
-
-

@@ -1,11 +1,12 @@
-package pages;
+package pageObject;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-public class AutoExerciseHomePage extends BasePage {
-    public AutoExerciseHomePage(WebDriver driver) {
+public class AutoExerciseHomePO extends BasePage {
+
+    public AutoExerciseHomePO(WebDriver driver) {
         super(driver);
     }
 
@@ -20,9 +21,7 @@ public class AutoExerciseHomePage extends BasePage {
     @FindBy(xpath = " //a[contains(text(),'Test Cases')]")
     private WebElement clickOnTestCasesLocator;
     @FindBy(xpath = "//h2[@class='title text-center']")
-    private WebElement userNavinatedToTestCases;
-
-
+    private WebElement userNavigatesToTC;
 
 
     public boolean IsHomePageDisplayed() {
@@ -43,13 +42,7 @@ public class AutoExerciseHomePage extends BasePage {
     public void clickOnTestCasesButton(){
         clickOnTestCasesLocator.click();
     }
-    public boolean UserNavinatedToTestCasesIsSuccessful(){
-        return userNavinatedToTestCases.isDisplayed();
-
+    public boolean userNavigatesToTestCasesIsSuccessful(){
+        return userNavigatesToTC.isDisplayed();
     }
-
-
-
 }
-
-

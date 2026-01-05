@@ -1,12 +1,11 @@
-package pages;
+package pageObject;
 
-import org.apache.commons.lang3.RandomStringUtils;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-public class AutoExerciseLoginPage extends BasePage {
-    public AutoExerciseLoginPage(WebDriver driver) {
+public class AutoExerciseLoginPO extends BasePage {
+    public AutoExerciseLoginPO(WebDriver driver) {
         super(driver);
     }
 
@@ -16,8 +15,8 @@ public class AutoExerciseLoginPage extends BasePage {
     private WebElement enterPassWordLocator;
     @FindBy(tagName = "button")
     private WebElement clickOnLoginLocator;
-    @FindBy(xpath = "//h2[normalize-space()='Login to your account']")
-    private WebElement loginPageIsDisplayedLocator;
+    @FindBy(xpath = "//a[.//i[contains(@class,'fa-user')] and contains(normalize-space(),'Logged in as')]")
+    private WebElement successfulLoginIconLocator;
     @FindBy(xpath = "//input[@data-qa='login-email']")
     private WebElement wrongLoginEmailAddLocator;
     @FindBy(xpath = "//input[@placeholder='Password']")
@@ -27,20 +26,19 @@ public class AutoExerciseLoginPage extends BasePage {
 
 
     public void EnterLoginEmailAddress(String email) {
-        enterLoginEmailAddLocator.sendKeys("odexsolo007@gmail.com");
+        enterLoginEmailAddLocator.sendKeys("xoxo007@gmail.com");
     }
 
     public void setEnterPassWord() {
-        enterPassWordLocator.sendKeys("Yahoo777");
+        enterPassWordLocator.sendKeys("xxxzz777");
     }
 
     public void clickOnLoginButton() {
         clickOnLoginLocator.click();
     }
 
-    public boolean IsLoginPageIsVisible() {
-        return loginPageIsDisplayedLocator.isDisplayed();
-
+    public boolean IsLoginIconVisible() {
+        return successfulLoginIconLocator.isDisplayed();
     }
 
     public void EnterWrongLogEmailAddress() {
@@ -53,5 +51,4 @@ public class AutoExerciseLoginPage extends BasePage {
     public boolean errorMessageIsVisible(){
         return errorMessageIsVisible.isDisplayed();
     }
-
 }

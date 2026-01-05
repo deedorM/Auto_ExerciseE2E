@@ -4,9 +4,9 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-public class AutoExerciseAccountRegistrationPO extends BasePage {
+public class AutoExerciseAccountCreatedPO extends BasePage {
 
-    public AutoExerciseAccountRegistrationPO (WebDriver driver) {
+    public AutoExerciseAccountCreatedPO(WebDriver driver) {
         super(driver);
     }
 

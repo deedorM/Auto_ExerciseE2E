@@ -1,11 +1,12 @@
-package pages;
+package pageObject;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-public class AutoExerciseContactsPage extends BasePage {
-    public AutoExerciseContactsPage(WebDriver driver) {
+public class AutoExerciseContactsPO extends BasePage {
+
+    public AutoExerciseContactsPO(WebDriver driver) {
         super(driver);
     }
 
@@ -22,7 +23,7 @@ public class AutoExerciseContactsPage extends BasePage {
     @FindBy(xpath = "//input[@name='submit']")
     private WebElement clickOnSubmitLocator;
     @FindBy(xpath = "//div[@class='status alert alert-success']")
-    private WebElement getSuccesssMessageIsVisible;
+    private WebElement getSuccessMessageIsVisible;
     @FindBy(xpath = "//span[contains(text(),' Home')]")
     private WebElement clickOnHomeLocator;
     @FindBy(xpath = "//div[@class='logo pull-left']")
@@ -54,7 +55,7 @@ public class AutoExerciseContactsPage extends BasePage {
     }
 
     public boolean IsGetSuccessMessageIsVisible() {
-        return getSuccesssMessageIsVisible.isDisplayed();
+        return getSuccessMessageIsVisible.isDisplayed();
     }
     public void clickOnHomeButton(){
         clickOnHomeLocator.click();
@@ -62,9 +63,4 @@ public class AutoExerciseContactsPage extends BasePage {
     public boolean LandedHomePageIsSuccessful(){
         return IsLandedHomePageIsSuccessful.isDisplayed();
     }
-
-
-
 }
-
-

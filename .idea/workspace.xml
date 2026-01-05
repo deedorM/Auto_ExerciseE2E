@@ -5,32 +5,132 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e70e0c50-3048-4daf-b832-856cdba80411" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObject/AutoExerciseAccountCreatedPO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObject/AutoExerciseAccountCreatedPO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObject/AutoExerciseContactsPO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObject/AutoExerciseContactsPO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObject/AutoExerciseEnterAccountInfoPO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObject/AutoExerciseEnterAccountInfoPO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObject/AutoExerciseHomePO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObject/AutoExerciseHomePO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObject/AutoExerciseLogOutPO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObject/AutoExerciseLogOutPO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObject/AutoExerciseLoginPO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObject/AutoExerciseLoginPO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObject/AutoExerciseNewUsersPO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObject/AutoExerciseNewUsersPO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObject/AutoExerciseProductsPO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObject/AutoExerciseProductsPO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObject/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObject/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/DriverManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utilities/DriverManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/PropertyReaders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utilities/PropertyReaders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/feature_files/autoExercise.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/feature_files/autoExercise.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinition/AutoExerciseSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinition/AutoExerciseSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinition/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinition/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinition/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinition/TestRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="37iDNlw7yGSwq13xFWoU53flldD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Cucumber Java.Feature: autoExercise.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Test Case 1: Register User.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestRunner.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Repos/Selenium _BDD&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pageObject" />
+      <recent name="utilities" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestRunner">
+    <configuration name="Feature: autoExercise" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/feature_files/autoExercise.feature" />
+      <option name="GLUE" value="StepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Automation_Exercise_E2E_BDD_Java_Tests" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: autoExercise" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Test Case 1: Register User" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/feature_files/autoExercise.feature" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Automation_Exercise_E2E_BDD_Java_Tests" />
+      <option name="NAME_FILTER" value="^Test Case 1\: Register User$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Test Case 1\: Register User$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Test Case 1: Register User" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Automation_Exercise_E2E_BDD_Java_Tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StepDefinition.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="StepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="StepDefinition.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="Cucumber Java.Feature: autoExercise" />
+        <item itemvalue="Cucumber Java.Scenario: Test Case 1: Register User" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
