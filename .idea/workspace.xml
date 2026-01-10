@@ -6,23 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e70e0c50-3048-4daf-b832-856cdba80411" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObject/AutoExerciseAccountCreatedPO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObject/AutoExerciseAccountCreatedPO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObject/AutoExerciseContactsPO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObject/AutoExerciseContactsPO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObject/AutoExerciseEnterAccountInfoPO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObject/AutoExerciseEnterAccountInfoPO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObject/AutoExerciseHomePO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObject/AutoExerciseHomePO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObject/AutoExerciseLogOutPO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObject/AutoExerciseLogOutPO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObject/AutoExerciseLoginPO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObject/AutoExerciseLoginPO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObject/AutoExerciseNewUsersPO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObject/AutoExerciseNewUsersPO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObject/AutoExerciseProductsPO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObject/AutoExerciseProductsPO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObject/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObject/BasePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/DriverManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utilities/DriverManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/PropertyReaders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utilities/PropertyReaders.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/feature_files/autoExercise.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/feature_files/autoExercise.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinition/AutoExerciseSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinition/AutoExerciseSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinition/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinition/Hooks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/StepDefinition/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/StepDefinition/TestRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +40,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Repos/Selenium _BDD&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Repos/RefactorMortgateCal&amp;UKBA&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
